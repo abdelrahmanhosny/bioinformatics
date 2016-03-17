@@ -1,5 +1,4 @@
 # Find all distinct k-mers forming (L,t)-clumps in genome
-# WARNING: this is a very stupid implementation and takes long time to run!
 __author__ = 'Abdelrahman Hosny <abdelrahman.hosny@ieee.org>'
 
 '''
